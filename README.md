@@ -1,3 +1,6 @@
+Lab Kubernet: https://github.com/Tnemo65/22024544_LeDacThinh_Kubernet
+Lab Docker: https://github.com/Tnemo65/22024544_LeDacThinh_Docker
+
 ![image](https://github.com/user-attachments/assets/9d66a8c8-a279-4b43-a0b8-92c71d87dba9)
 
 ![image](https://github.com/user-attachments/assets/747854ac-c333-439f-8ab0-a841a5d56b48)
